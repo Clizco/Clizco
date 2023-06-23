@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **gonzalezad06@gmail.com**
 
-- 📄 Know about my experiences [I have 1 year of experience in programming, I have learned several languages such as Javascript, Html, Css, Python, Jsx, Rubi, C++, C#, Lua, but for now I am focused on JavascriptI have 1 year of experience in programming, I have learned several languages such as Javascript, Html, Css, Python, Jsx, Rubi, C++, C#, Lua, but for now I am focused on Javascript](I have 1 year of experience in programming, I have learned several languages such as Javascript, Html, Css, Python, Jsx, Rubi, C++, C#, Lua, but for now I am focused on JavascriptI have 1 year of experience in programming, I have learned several languages such as Javascript, Html, Css, Python, Jsx, Rubi, C++, C#, Lua, but for now I am focused on Javascript)
-
+- 📄 Know about my experiences [I have 1 year of experience in programming, I have learned several languages such as Javascript, Html, Css, Python, Jsx, Rubi, C++, C#, Lua, but for now I am focused on Javascript
+  
 - ⚡ Fun fact **I think im funny**
 
 <h3 align="left">Connect with me:</h3>
