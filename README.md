@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clizco</h1>
 <h3 align="center">I like to learn new things every day, and to be able to do what I like my dream is to work as a game developer one day, but now let's stay in reality and work</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clizco&label=Profile%20views&color=0e75b6&style=flat" alt="clizco" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clizco" alt="clizco" /></a> </p>
-
 - 🔭 I’m currently working on [APIREST](https://github.com/Clizco/APIDESDE0)
 
 - 🌱 I’m currently learning **Javascript, MongoDB, APIS, JSX**
