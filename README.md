@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [APIREST](https://github.com/Clizco/APIDESDE0)
 
-- 🌱 I’m currently learning **Javascript, MongoDB, APIS, JSX**
+- 🌱 I’m currently learning **Javascript, MongoDB, APIS, JSX, REACT**
 
 - 🤝 I’m looking for help with [APIREST](https://github.com/Clizco/APIDESDE0)
 
