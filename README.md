@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nexit<br>👯 I’m looking to collaborate on everything<br>🤝 I’m looking for help with Nexit<br>🌱 I’m currently learning SQL <br>💬 Ask me about Videogames and Programming<br>⚡ Fun fact i think im cool
+🔭 I’m currently working on Nexit<br>👯 I’m looking to collaborate on Everything<br>🤝 I’m looking for help with [Nexit]https://github.com/Clizco/Nexit<br>🌱 I’m currently learning SQL <br>💬 Ask me about Videogames and Programming<br>⚡ Fun fact I think I'm cool
 
 
 ## 🌐 Socials:
