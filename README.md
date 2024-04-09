@@ -19,9 +19,7 @@ can work perfectly individually to reach the set objectives.
   
 
 <br/>  
-
-
-## Rapidfire  
+ 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Nexit](https://github.com/Clizco/Nexit)  
@@ -36,9 +34,9 @@ can work perfectly individually to reach the set objectives.
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
  
-<br> </br>
+
 <br/>  
 
 
