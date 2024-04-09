@@ -22,7 +22,7 @@ can work perfectly individually to reach the set objectives.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
 
 - 🔭 I’m currently working on [Nexit](https://github.com/Clizco/Nexit)  
   
@@ -35,13 +35,7 @@ can work perfectly individually to reach the set objectives.
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
-
-👨🏽‍💻👨🏽‍💻👨🏽‍💻👨🏽‍💻👨🏽‍💻  
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
