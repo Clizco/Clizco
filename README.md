@@ -20,7 +20,7 @@ can work perfectly individually to reach the set objectives.
 
 <br/>  
  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Nexit](https://github.com/Clizco/Nexit)  
   
