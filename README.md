@@ -19,8 +19,10 @@ can work perfectly individually to reach the set objectives.
   
 
 <br/>  
- 
-<table><tr><td valign="top" width="100%">
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Nexit](https://github.com/Clizco/Nexit)  
   
@@ -34,14 +36,16 @@ can work perfectly individually to reach the set objectives.
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
+
+👨🏽‍💻👨🏽‍💻👨🏽‍💻👨🏽‍💻👨🏽‍💻  
 
 
+</td></tr></table>  
 
 <br/>  
 
-<br><br/>
-<br><br/>
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
